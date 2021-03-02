@@ -1,1 +1,1 @@
-![Design preview for the gravizen challenge](./images/myDesign.jpg)
+![Design preview for the gravizen challenge](./images/myDesign.png)
